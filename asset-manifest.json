@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "https://segunzoe.github.io/csb-pvm160/static/js/main.b96baa1f.chunk.js",
+    "main.js.map": "https://segunzoe.github.io/csb-pvm160/static/js/main.b96baa1f.chunk.js.map",
+    "runtime-main.js": "https://segunzoe.github.io/csb-pvm160/static/js/runtime-main.2ea5b99c.js",
+    "runtime-main.js.map": "https://segunzoe.github.io/csb-pvm160/static/js/runtime-main.2ea5b99c.js.map",
+    "static/js/2.5580c59e.chunk.js": "https://segunzoe.github.io/csb-pvm160/static/js/2.5580c59e.chunk.js",
+    "static/js/2.5580c59e.chunk.js.map": "https://segunzoe.github.io/csb-pvm160/static/js/2.5580c59e.chunk.js.map",
+    "index.html": "https://segunzoe.github.io/csb-pvm160/index.html",
+    "static/js/2.5580c59e.chunk.js.LICENSE.txt": "https://segunzoe.github.io/csb-pvm160/static/js/2.5580c59e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2ea5b99c.js",
+    "static/js/2.5580c59e.chunk.js",
+    "static/js/main.b96baa1f.chunk.js"
+  ]
+}
